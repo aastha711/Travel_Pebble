@@ -1,0 +1,429 @@
+ 
+ 
+@import url('https://fonts.cdnfonts.com/css/waterfalls');
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@100;200;300&display=swap');
+
+*{
+  box-sizing:border-box;
+}
+
+.Carous.container-fluid {
+   margin:0px 0px 0px 0px;
+   padding: 0px 0px 0px 0px;
+   Font-family:'Waterfall',sans-serif;
+}
+
+.Carous h1{
+    font-size:70px;
+    margin-bottom:0px;
+}
+.Carous h3{
+     margin-top:-10px;
+    font-size:43px; 
+}
+.navbar{
+   width:100%;
+}
+.navbar-toggle{
+       border: 1px solid black;
+}
+.icon-bar{
+   color:black
+}
+
+.nav {
+    background-color: transparent;
+    padding: 15px 56px 15px 21px;
+}
+
+.nav>li>a{
+  padding:15px 20px 10px 20px;
+  font-size:18px;
+}
+
+.navbar>.container-fluid{
+ background-color: rgb(249 237 245 / 84%);
+ font-family: 'Josefin Sans', sans-serif;
+}
+
+a{
+  color:#1f0a3c;
+}
+
+.rightcol h2{
+   font-size:50px;
+   color: #d45d57;
+   margin-top: 17px;
+   margin-bottom: -13px;
+}
+
+.leftcol{
+  margin: 40px 0px 90px -75px;
+  width:100%;
+} 
+
+.rightcol{
+   text-align:left;
+   line-height:1.6;
+   width:90%;
+   font-size: 22px;
+   margin: 75px 0px 30px 30px;
+   font-family: 'Josefin Sans', sans-serif;
+   
+}
+
+.where .container-fluid{
+   background-color:#101637;
+   height:19%;
+   margin-bottom:75px;
+   font-family: 'Josefin Sans', sans-serif;
+}
+.where h3{
+	float:left;
+	margin: 54px 0px 10px 152px;
+	color:white;
+}
+.form-control{
+	margin:42px -9px 38px 31px;
+	padding: 26px 18px;
+	background:none;
+	box-sizing: border-box;
+	width:50%;
+	
+}	 
+
+
+.submit{
+    margin:6px 0px 0px 30px;
+    padding: 12px 34px;
+}
+
+.submit .btn{
+     background-color:#d45d57;
+}
+
+
+.rightcol .btn{
+  background-color:#f9bbbc;
+  color:#00095E;
+  font-family: "Roboto",sans-serif;
+  margin:20px 0px 10px 0px;
+  }
+
+.p1{
+  padding:210px 289px 1px 300px;
+  margin: 0px 0px -10px 0px;
+}
+
+
+.rightcol a:link{
+ color:white;
+ background-color:#d45d57;
+ text-decoration:none;
+}
+
+.rightcol a:hover{
+ color:#00095E;
+ transition:1s;
+ background-color:white;
+ text-decoration:none;
+}
+
+.desti{
+   margin:0px 60px 0px 60px;
+   font-size:16px;
+   width:auto;
+   
+}
+
+.desti .caption p{
+	overflow:hidden;
+}
+
+.desti .col-md-4{
+    padding-right: 23px;
+    padding-left: 23px;
+}
+
+.desti .modal-body img{
+   width:100%;
+   height:auto;
+}
+
+.desti .glyphicon {
+   color: #00000000;
+   padding-right:2px;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: #000000;
+}
+
+.desti h2{
+   Font-family:'Waterfall',sans-serif;
+   font-size:50px;
+   text-align:left;
+}
+
+.desti h3{
+   Font-family:'Waterfall',sans-serif;
+   margin-top:-1px;
+   margin-bottom:20px;
+   font-size:40px;
+}
+
+.desti h4 .desti h1{
+  font-family: 'Poppins', sans-serif;
+}
+
+.desti h1{
+  margin-bottom:0px;
+  font-family: 'Josefin Sans', sans-serif;
+}
+
+.between h1{
+  margin-top:55px;
+}
+.between h3{
+  
+ margin-top:5px;
+   margin-bottom:0px;
+}
+
+.between h4{ 
+   margin-top:0px;
+   margin-bottom:28px;
+ }
+	
+.desti .btn {
+    border-radius: 15px;
+    background-color: #0a1e55;
+    color: #f0eeee;
+    border-color: black;
+}
+
+.desti .btn:hover {
+    background-color: #ffffff;
+    color: black;
+    transform: scale(1.1);
+    transition:0.3s;
+}
+
+.desti p{
+   font-size:17px;    
+   margin: 0 0 5px;
+}	
+.desti img{
+   object-fit:cover;
+   width:100%;
+   height:auto;
+}
+
+.desti img{
+   transition: transform 300ms ease 0s;
+   }
+
+.desti img:hover{
+   box-shadow: 0 5px 6px 0 rgba(0,0,0,0.5), 0 7px 30px 0 rgba(0,0,0,0.20);
+  transform: scale(1.05);
+    }
+ 
+.desti .caption{
+    font-size:20px;
+}
+
+.desti hr {
+    margin-top: 58px;
+    margin-bottom: -10px;
+    border-top: 0.5px solid grey;
+}
+
+
+.leftc{
+   line-height:1.4;
+   font-size: 20px;
+   color:#101637;
+   font-family: 'Josefin Sans', sans-serif;
+}
+
+.leftc h1{
+   color:#bc150d;
+   font-size:60px;
+   Font-family:'Waterfall',sans-serif;
+}
+.leftc img{
+     height:4%;
+}
+.whybg hr{
+   border-top: 0.5px solid #5a5a5a;
+   margin-bottom:48px;
+   width:100%;
+}
+
+.whybg{
+  margin-bottom:100px;
+  margin-top:80px;
+}
+
+.whybg p{
+  margin-left:34px;
+}
+
+.formm{
+  width:100%;
+  color:white;
+  margin-bottom:90px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: 'Poppins', sans-serif;
+}
+
+.formm .well{
+   background-color:#133c5ed1;
+   border: 0px solid;
+   height: 614px;
+   width: 45%;
+   margin: 66px;
+}
+
+.formm h3{
+   Font-family:'Waterfall',sans-serif;
+   text-align:center;
+   font-size:70px;
+   margin-top:-55px;
+   margin-bottom:20px;
+}
+
+.formm label{
+     font-weight: 100;
+     margin-left: 36px;
+}
+
+.formm .form-control {
+  font-family: 'Poppins', sans-serif;
+  margin: 15px 0px 38px 31px;
+  border: 1px solid #b5a8a8;
+  width:83%;
+  
+}
+
+.formm .btn{
+  border-radius:30px;
+  font-size:14px;
+  margin-top: 28px;
+  color:black;
+  border: 1px solid transparent;
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.34), 0 6px 20px 0 rgba(0,0,0,0.14);
+}
+
+.formm .btn:hover{
+   background-color:#08355d;
+   color:white;
+}
+.feature{
+  background-image:url('task_pics/bgpic2.jpg');
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.feature{
+    margin: 100px 0px 0px 0px;
+    padding: 50px 15px 70px 10px;
+    text-align:center;
+    font-family: 'Josefin Sans', sans-serif;
+    color:white;
+}
+
+.feature p{
+  text-align:center;
+  line-height:1.5;  
+  font-size:18px;
+  
+}
+
+.feature h3{
+  margin-top:0px;
+  color:white;
+  font-size:46px;
+  Font-family:'Waterfall',sans-serif;
+}
+
+.feature .col-md-4{
+   padding:0 55px 0 55px;
+}
+
+.feature img{
+  width:14%;
+  height:auto;
+}
+
+
+.partner{ 
+   text-align:center;   
+}
+
+.cust img{
+  border-radius:50%;
+}
+
+.cust{
+  text-align:center;   
+  line-height:1.6; 
+  margin:0px 100px 130px 100px;  
+  color:black;
+  font-size:19px; 
+  font-family: 'Josefin Sans', sans-serif;
+}
+.cust h2{
+  Font-family:'Waterfall',sans-serif;
+  font-size:46px;
+}
+.cust h1{
+   Font-family:'Waterfall',sans-serif;
+   font-size:76px;
+   margin-bottom:50px;
+}
+.cust .col-md-4{
+  padding:0 46px 0 46px;
+}
+
+.partner{
+  margin: 0px 0px 0px 0px;
+  border:1px solid black;
+  
+}
+
+.foot{
+  background-color:#101637;
+  font-family: 'Josefin Sans', sans-serif;
+  padding: 40px 58px 10px 66px;
+   color:#d7d7e0;
+}
+.foot1{
+  padding:0 45px 0 20px;
+  line-height:1.7;
+  font-size:16px;
+}
+.foot1 h3{
+	Font-family:'Waterfall',sans-serif;
+	font-size:50px;
+}
+.foot2 img{
+  width:10%;
+}
+.foot2 ul{
+   padding:0px;
+   font-size:17px;
+}
+
+.foot a{
+    color: #b7afc1;
+}
+
+
+.foot li{
+  padding:8px;
+  list-style:none;
+   font-family: 'Poppins', sans-serif;
+}

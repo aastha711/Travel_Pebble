@@ -1,0 +1,51 @@
+body{
+background-image:url('');
+background-size:cover;
+color:white;
+}
+
+.well{
+   padding:26px 95px;
+   width:50%;
+   background-color:#39486d91;
+
+}
+
+.well h3{
+  margin-left: -30px;
+}
+
+h1{
+   color:white;
+   text-align:center;
+}
+.container{
+  margin-top:105px;
+  width:40%;
+  height:auto;
+}
+
+.form-horizontal>input{
+ padding:10px 20px;
+}
+
+.form-control {
+    padding: 25px 25px;
+    font-size: 14px;
+    color:black;
+    border: 1px solid #ccc;
+
+}
+
+a{
+    color: white;
+    text-decoration:none;
+}
+
+.alert-link{
+  color:white;	
+}
+.alert{
+  background-color:#d9edf712;
+  color:white;
+}
